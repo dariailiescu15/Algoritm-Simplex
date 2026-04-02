@@ -1,4 +1,4 @@
-# Algoritm-Simplex
+# Algoritm-Simplex.
 
 Interfață interactivă 👉 https://algoritm-simplex-9hffnpn7jvnkvkjhqcrgy9.streamlit.app/
 
